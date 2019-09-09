@@ -15,7 +15,7 @@ This repo contains a number of hypothesis tests that can be carried out for both
 [Tukeys Range Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/tukeys_range_test.ipynb)
 
 # Categorical
-[Binomial Tests]  
-[Chi Square]  
+[Binomial Tests - WIP]  
+[Chi Square]
 
 Links to these notebooks will follow as they are completed
