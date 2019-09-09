@@ -12,7 +12,7 @@ This repo contains a number of hypothesis tests that can be carried out for both
 [One Sample T-Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/one_sample_t_tests.ipynb)  
 [Two Sample T-Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/two_sample_t_test.ipynb)  
 [ANOVA](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/anova.ipynb)  
-[Tukeys Range Test]
+[Tukeys Range Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/tukeys_range_test.ipynb)
 
 # Categorical
 [Binomial Tests]  
