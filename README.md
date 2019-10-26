@@ -18,4 +18,5 @@ This repo contains a number of hypothesis tests that can be carried out for both
 [Binomial Tests](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/binomial_test.ipynb)  
 [Chi Square](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/chi_square_test.ipynb)
 
-Links to these notebooks will follow as they are completed
+# Power Analysis
+[Sample Size Determination](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/sample_size_determination.ipynb)
