@@ -12,6 +12,32 @@ This repo contains a number of hypothesis tests that can be carried out for both
 
 Null Hypothesis
 
+Alternative Hypothesis
+
+Signifiance Level
+
+p-value
+
+Type 1 Error
+
+Type 2 Error
+
+Power Analysis
+
+T-Test
+
+One Sample T-Test
+
+Two Sample T-Test
+
+ANOVA
+
+Tukeys Range Test
+
+Binomial Test
+
+Chi Square Test
+
 # Numerical
 [One Sample T-Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/one_sample_t_tests.ipynb)  
 [Two Sample T-Test](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/two_sample_t_test.ipynb)  
