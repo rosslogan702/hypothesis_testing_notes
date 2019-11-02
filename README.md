@@ -10,7 +10,7 @@ This repo contains a number of hypothesis tests that can be carried out for both
 It also contains a glossary of defintions for the statistical terms used in the notebooks.
 
 # Glossary
-Defintions of statistical terms used.
+Defintions of statistical terms used
 
 [Glossary](https://github.com/rosslogan702/hypothesis_testing_notes/blob/master/glossary.md)
 
